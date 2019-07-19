@@ -3,9 +3,9 @@ http_proxy = ""
 https_proxy = ""
 
 
-"""The key (token) is a character set of the form 110201543: AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw, 
+"""The key (token) is a character set of the form 110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw, 
 which is needed to receive and send messages using the Bot API."""
-telegram_token = "826596307:AAETz8qzSjnVMicNK6YOB9pIls1RN0mm2y0"
+telegram_token = ""
 
 """list of telegram identifiers to whom you will send messages about new items"""
 channel_ids = ["xxxxxxxxx", "yyyyyyyyy"]
